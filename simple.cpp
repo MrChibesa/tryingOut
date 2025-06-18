@@ -9,6 +9,7 @@ int main(){
     }
 
     cout << "sum is equal to: "<<sum<<endl;
+    //obed chibesa Kunda kembo mufana
 
    return 0;
 }
